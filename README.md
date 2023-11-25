@@ -4,7 +4,7 @@
 
 ![Paulo GitHub stats](https://github-readme-stats.vercel.app/api?username=pauloh36&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloh36&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloh36&layout=compact)
 
 
 ### Tecnologias que possuo conhecimento e estou estudando para me aperfeiçoar 
